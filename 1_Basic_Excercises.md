@@ -282,28 +282,6 @@ function orderWord(word) {
 
 
 ### #10
-- Write a function that find the longest word within the string passed as parameter.
-
-Example : 'Web Development Tutorial' 
-Desired Output : 'Development'
-
-<details>
-  <summary>Solution</summary>
-
-```javascript
-
-console.log(orderWord("example"));
-
-function orderWord(word) {
-  return word.split("").sort().join("");
-}
-
-```
-
-</details>
-
-
-### #11
 Task:
 - Write a function that find the longest word within the string passed as parameter.
 
