@@ -225,7 +225,7 @@ $("#hoverAction").hover(function(){
 
 </details>
 
-### #8 classes
+### #9 classes
 
 Given is the following html snippet:
 ```
